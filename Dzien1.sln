@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14PetlaFor", "P14PetlaFor\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15PrzechwytywanieBledow", "P15PrzechwytywanieBledow\P15PrzechwytywanieBledow.csproj", "{03FB3C52-0A25-4231-85C3-0599CBA9692F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16DatyWstep", "P16DatyWstep\P16DatyWstep.csproj", "{1D0C955D-3F9A-4A6F-ABFB-CB0B4A8C4878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{03FB3C52-0A25-4231-85C3-0599CBA9692F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03FB3C52-0A25-4231-85C3-0599CBA9692F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03FB3C52-0A25-4231-85C3-0599CBA9692F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0C955D-3F9A-4A6F-ABFB-CB0B4A8C4878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0C955D-3F9A-4A6F-ABFB-CB0B4A8C4878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0C955D-3F9A-4A6F-ABFB-CB0B4A8C4878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0C955D-3F9A-4A6F-ABFB-CB0B4A8C4878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
