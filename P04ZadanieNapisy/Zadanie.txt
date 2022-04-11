@@ -1,0 +1,21 @@
+﻿
+// wersja 1 
+Napisz program, który wczytuje dwie liczby A i B (jedna po drugiej)
+
+np:
+10
+200
+
+program jako wynik wyświetli sume tych liczb oraz informację 
+z ilu cyfr składa się wynik
+
+210
+3
+
+// wersja 2 
+Napisz program, który wczytuje sume dwóch liczb obok siebie 
+np: 
+10+200
+
+i zwraca wynik 
+

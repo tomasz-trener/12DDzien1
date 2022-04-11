@@ -1,0 +1,10 @@
+﻿
+
+poproś o wczytanie równania matematycznego  (w jednej linii) np: 
+15+8
+lub
+20-2
+
+program zwraca wynik 
+
+tym razem mozemy +, -, * , / 

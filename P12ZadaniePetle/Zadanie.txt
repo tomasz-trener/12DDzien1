@@ -1,0 +1,20 @@
+﻿
+
+Wersja prosta 
+
+Wczytaj z konsoli dowolne zdanie np: "Ala ma kota i ma psa"
+
+następnie wczytaj dowolny znak np: "a"
+
+program zwraca informację ile razy w zdaniu wystąpił dany znak
+
+w naszym przypadku 6
+
+
+Wersja trudniejsza
+
+Wczytaj z konsoli dowolne zdanie np: "Ala ma kota i ma psa"
+następnie wczytaj dowolny wyraz np: "ma"
+program zwraca informację ile razy w zdaniu wystąpił dany wyraz
+u nas wynik to 2
+
